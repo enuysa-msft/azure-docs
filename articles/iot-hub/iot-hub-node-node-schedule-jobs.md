@@ -131,7 +131,7 @@ In this section, you create a Node.js console app that initiates a remote **lock
     npm install azure-iothub uuid --save
     ```
 3. Using a text editor, create a new **scheduleJobService.js** file in the **scheduleJobService** folder.
-4. Add the following 'require' statements at the start of the **dmpatterns_gscheduleJobServiceetstarted_service.js** file:
+4. Add the following 'require' statements at the start of the **scheduleJobService.js** file:
    
     ```
     'use strict';
